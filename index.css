@@ -198,7 +198,7 @@ input{
     }
     /* ==FOR SMALL DEVICE */
 
-   @media screen and (max-width:412px){ 
+   @media screen and (max-width:1080px){ 
     button{
       font-size: 23px;
       margin: 0.3rem;
